@@ -1,0 +1,7 @@
+TODO: OnModelCreating configure Entities. Remove [NotMapped] Atribute
+TODO: Create projectin an DTO objects	AvaTrade.Data
+TODO use several classes without redundant properties
+TODO Move magic strings	
+TODO: Validate request parameters and response objects like AccountControlle
+TODO: Return actual ActionResult like AccountController	AvaTrade.Api
+TODO: Check if news already added
